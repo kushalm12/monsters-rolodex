@@ -1,15 +1,15 @@
 {
-  "main.css": "/github.io/monsters-rolodex/static/css/main.cb66427b.chunk.css",
-  "main.js": "/github.io/monsters-rolodex/static/js/main.da80df55.chunk.js",
-  "main.js.map": "/github.io/monsters-rolodex/static/js/main.da80df55.chunk.js.map",
-  "runtime~main.js": "/github.io/monsters-rolodex/static/js/runtime~main.c1a9d475.js",
-  "runtime~main.js.map": "/github.io/monsters-rolodex/static/js/runtime~main.c1a9d475.js.map",
-  "static/js/2.3be7df77.chunk.js": "/github.io/monsters-rolodex/static/js/2.3be7df77.chunk.js",
-  "static/js/2.3be7df77.chunk.js.map": "/github.io/monsters-rolodex/static/js/2.3be7df77.chunk.js.map",
-  "static/js/3.63a8b96a.chunk.js": "/github.io/monsters-rolodex/static/js/3.63a8b96a.chunk.js",
-  "static/js/3.63a8b96a.chunk.js.map": "/github.io/monsters-rolodex/static/js/3.63a8b96a.chunk.js.map",
-  "index.html": "/github.io/monsters-rolodex/index.html",
-  "precache-manifest.88a302250bc50eaf9502880406da4f9a.js": "/github.io/monsters-rolodex/precache-manifest.88a302250bc50eaf9502880406da4f9a.js",
-  "service-worker.js": "/github.io/monsters-rolodex/service-worker.js",
-  "static/css/main.cb66427b.chunk.css.map": "/github.io/monsters-rolodex/static/css/main.cb66427b.chunk.css.map"
+  "main.css": "/github.io/monster/static/css/main.cb66427b.chunk.css",
+  "main.js": "/github.io/monster/static/js/main.da80df55.chunk.js",
+  "main.js.map": "/github.io/monster/static/js/main.da80df55.chunk.js.map",
+  "runtime~main.js": "/github.io/monster/static/js/runtime~main.17ec142b.js",
+  "runtime~main.js.map": "/github.io/monster/static/js/runtime~main.17ec142b.js.map",
+  "static/js/2.3be7df77.chunk.js": "/github.io/monster/static/js/2.3be7df77.chunk.js",
+  "static/js/2.3be7df77.chunk.js.map": "/github.io/monster/static/js/2.3be7df77.chunk.js.map",
+  "static/js/3.63a8b96a.chunk.js": "/github.io/monster/static/js/3.63a8b96a.chunk.js",
+  "static/js/3.63a8b96a.chunk.js.map": "/github.io/monster/static/js/3.63a8b96a.chunk.js.map",
+  "index.html": "/github.io/monster/index.html",
+  "precache-manifest.88ccbb1271d987cc199269fe0b2f1b94.js": "/github.io/monster/precache-manifest.88ccbb1271d987cc199269fe0b2f1b94.js",
+  "service-worker.js": "/github.io/monster/service-worker.js",
+  "static/css/main.cb66427b.chunk.css.map": "/github.io/monster/static/css/main.cb66427b.chunk.css.map"
 }
